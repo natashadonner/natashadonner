@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Natasha Donner</h1>
-<h3 align="center">A  passionate Electronics and Computer Science Engineering student @KTH from Stockholm</h3>
-
-- 💬 Ask me about **Java, C and firmware**
+<h1 align="left">Hi 👋, I'm Natasha Donner</h1>
+<h3 align="left">A  passionate Electronics and Computer Science Engineering student @KTH from Stockholm</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
