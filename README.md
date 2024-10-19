@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Natasha Donner</h1>
-<h3 align="left">A  passionate Electronics and Computer Science Engineering student @KTH from Stockholm</h3>
+<h3 align="left"> Software engineer from Stockholm, studied Electonics and Computer Science @KTH </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
