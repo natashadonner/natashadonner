@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Natasha Donner</h1>
-<h3 align="left"> Software engineer from Stockholm, studied Electonics and Computer Science @KTH </h3>
+<h3 align="left">I’m a backend fullstack from Stockholm with a background in Computer Science and Electronics from KTH, currently pursuing a Master’s in Cybersecurity at LTU. I love turning ideas into real, working projects — from web apps built with React to creative tech experiments. When I’m not coding, you’ll probably find me dancing or kitesurfing — it keeps my energy up and creativity flowing. I like to move fast, build fast, and see ideas come to life </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
