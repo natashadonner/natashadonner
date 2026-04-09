@@ -4,9 +4,7 @@ I’ve been riding the AI wave since the early public days of GPT-3.5, starting 
 These days I’m deep into securing AI systems: experimenting with adversarial attacks (pixel tweaks that confuse models), poisoning scenarios in federated learning and how to defend agains it, prompt-injections and how the . Lately I’ve also been diving into Agentic AI frameworks and building my own solutions because curiosity usually wins.
 Tech-wise, I’ve worked across Java, Spring Boot, SQL, Kafka, AWS, DevOps pipelines, Kubernetes (OpenShift), Terraform, and also Python, Rust, C, C#, and TypeScript. New languages don’t scare me. They’re just new puzzles.
 Technology is moving fast, continuous learning isn’t optional anymore if we want to build systems that are both innovative and secure.
-Always curious. Always building. Occasionally breaking things (responsibly).<img width="1098" height="790" alt="image" src="https://github.com/user-attachments/assets/95ddb366-a5aa-429e-9413-db1371833036" />
-</h3>
-
+Always curious. Always building. Occasionally breaking things (responsibly)</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/natasha-donner/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natasha donner" height="30" width="40" /></a>
