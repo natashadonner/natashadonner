@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Natasha Donner</h1>
 <h3 align="left">I love building things… and occasionally breaking them (on purpose, of course).
 I’ve been riding the AI wave since the early public days of GPT-3.5, starting out by building chatbots using RAG before it was cool, and yes, I’ve fought the legendary “why won’t this PDF extract properly?"
-These days I’m deep into securing AI systems: experimenting with adversarial attacks (pixel tweaks that confuse models), poisoning scenarios in federated learning and how to defend agains it, prompt-injections and how the . Lately I’ve also been diving into Agentic AI frameworks and building my own solutions because curiosity usually wins.
+These days I’m into securing AI systems: experimenting with adversarial attacks (pixel tweaks that confuse models), poisoning scenarios in federated learning and how to defend agains it, prompt-injections and how the . Lately I’ve also been diving into Agentic AI frameworks and building my own solutions because curiosity usually wins.
 Tech-wise, I’ve worked across Java, Spring Boot, SQL, Kafka, AWS, DevOps pipelines, Kubernetes (OpenShift), Terraform, and also Python, Rust, C, C#, and TypeScript. New languages don’t scare me. They’re just new puzzles.
 Technology is moving fast, continuous learning isn’t optional anymore if we want to build systems that are both innovative and secure.
 Always curious. Always building. Occasionally breaking things (responsibly)</h3>
